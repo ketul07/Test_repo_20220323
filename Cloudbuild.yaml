@@ -7,4 +7,4 @@ steps:
   args: ["app", "deploy", "app.yaml"]
 options:
   logging: CLOUD_LOGGING_ONLY
-service_account: brigthspeed-ordering@appspot.gserviceaccount.com
+service_account: nirav1@appspot.gserviceaccount.com 
